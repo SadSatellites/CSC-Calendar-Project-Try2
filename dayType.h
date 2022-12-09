@@ -19,10 +19,11 @@ public:
 
 private:
     string varDoW;      // Holds the current working day of the week as string
-    string DaysofWeek[7] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday",
-                            "Friday","Saturday"};       // Array for days of the week
     int varIndexofDoW;      // Holds the index of the current working day of the week from DaysofWeek[7]
 
 };
+
+static string DaysofWeek[7] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday",
+                        "Friday","Saturday"};       // Static array for days of the week
 
 #endif
