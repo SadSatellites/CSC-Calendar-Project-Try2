@@ -4,4 +4,4 @@ dateType Assignment Try 2 Branch: https://github.com/SadSatellites/CSC-Calendar-
 
 exDateType Assignment Try 2 Branch: https://github.com/SadSatellites/CSC-Calendar-Project-Try2/tree/exDateType-Class-branch
 
-Final Calendar project Try 2 Branch:
+Final Calendar Project Try 2 Branch: 
