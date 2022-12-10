@@ -29,7 +29,7 @@ public:
     //Constructor with parameters
     dateType(int X, int Y, int Z);
 
-private:
+protected:
     int varDay, varMonth, varYear;
     void classInvariant(int X, int Y, int Z);      // Class invariant
 };
