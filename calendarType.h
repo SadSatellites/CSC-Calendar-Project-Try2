@@ -14,13 +14,10 @@ public:
     int returnMonth();
     int returnYear();
     void printCalendar();
-    void printTopRow();
-    void printDaysInMonth();
 
     // Constructor without parameters
     calendarType();
-
-
+    
     // Constructor with parameters
     calendarType(int X, int Y);
 
@@ -28,10 +25,8 @@ private:
     dayType firstDayOfMonth();
     exDateType firstDate;
     dayType firstDay;
-
-    void printTitleAndColumns();
-    void printMonthsDays();
-
+    void printTopRow();
+    void printDaysInMonth();
 };
 
 
